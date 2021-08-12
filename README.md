@@ -14,6 +14,10 @@
 - Socialite integration
 - Bootstrap 4 + Font Awesome 5
 
+## Requirements
+
+- Install Laragon program for database 
+
 ## Installation
 1-download the project
 -  open any termainal you have ex:(cmd , gitbash , powershell)
