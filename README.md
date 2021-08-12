@@ -77,4 +77,5 @@ Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recen
 
 ## Contributors
 - [**Aladdin Mohammed** - *The main maintainer of this project*](https://github.com/proalaa)
+- [**Mohammed Al-Raey** - **]
 
